@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ferrydeboer/dentalhero/static/css/main.48ed2340.css",
-    "main.js": "/ferrydeboer/dentalhero/static/js/main.e4165f9b.js",
-    "static/js/787.f8b7468d.chunk.js": "/ferrydeboer/dentalhero/static/js/787.f8b7468d.chunk.js",
-    "index.html": "/ferrydeboer/dentalhero/index.html",
-    "main.48ed2340.css.map": "/ferrydeboer/dentalhero/static/css/main.48ed2340.css.map",
-    "main.e4165f9b.js.map": "/ferrydeboer/dentalhero/static/js/main.e4165f9b.js.map",
-    "787.f8b7468d.chunk.js.map": "/ferrydeboer/dentalhero/static/js/787.f8b7468d.chunk.js.map"
+    "main.css": "/dentalhero/static/css/main.48ed2340.css",
+    "main.js": "/dentalhero/static/js/main.662ba400.js",
+    "static/js/787.f8b7468d.chunk.js": "/dentalhero/static/js/787.f8b7468d.chunk.js",
+    "index.html": "/dentalhero/index.html",
+    "main.48ed2340.css.map": "/dentalhero/static/css/main.48ed2340.css.map",
+    "main.662ba400.js.map": "/dentalhero/static/js/main.662ba400.js.map",
+    "787.f8b7468d.chunk.js.map": "/dentalhero/static/js/787.f8b7468d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.48ed2340.css",
-    "static/js/main.e4165f9b.js"
+    "static/js/main.662ba400.js"
   ]
 }
