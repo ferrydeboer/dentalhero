@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+#countdown-time {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border: 20px solid red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+label {
+  font-weight: bold
+}
+
+.explanation {
+  font-style: italic;
+  font-size: small;
+}
